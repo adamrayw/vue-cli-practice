@@ -1,4 +1,4 @@
-# ninja-jobs
+# App Jobs
 
 ## Project setup
 ```
